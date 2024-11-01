@@ -1,16 +1,7 @@
-# aura_matrix
+# Flutter Matrix Effect
 
-A new Flutter project.
+A dynamic, interactive matrix effect visualisation built in Flutter. This project demonstrates smooth particle movement, inertia-based interactions, and user-configurable colours. Inspired by the classic "matrix rain" effect, this project visualises dots that are repelled from a touch location and return to their origin, creating a fluid and captivating animation.
 
-## Getting Started
+## Demo
+![demo](https://github.com/user-attachments/assets/8c885ba4-b7e4-424e-832b-ed951a37ef92)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
